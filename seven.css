@@ -1,0 +1,10 @@
+div{
+    background-color: dodgerblue;
+    height: 30px;
+    padding: 30px;
+    width: 34px;
+    margin: 10px 10px;
+    text-align: center;
+    color: rgb(255, 255, 8);
+    cursor: pointer;
+}

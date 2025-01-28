@@ -1,0 +1,24 @@
+body {
+     background-color: pink;
+}
+
+p{
+     color: blue;
+     font-size: 32px;
+     
+}
+button{
+    background-color:palegreen;
+}
+.heading{
+   color: aqua;
+   background-color: yellow;
+}
+.him{
+    color: brown;
+}
+
+#header{
+    font-size: 15px;
+
+}
